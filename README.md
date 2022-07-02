@@ -1,5 +1,7 @@
 ## hello guys
 
+:grin:
+
 This is unclelonggg's notebook
 
 for Algorithms and Data Structures in Java
